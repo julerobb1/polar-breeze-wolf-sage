@@ -1,0 +1,2178 @@
+[
+  {
+    "name": ".aiexclude",
+    "path": ".aiexclude",
+    "sha": "014cd9be4f2e25827c54703c4c73d81cd99f3d25",
+    "size": 52,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/.aiexclude?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/.aiexclude",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/014cd9be4f2e25827c54703c4c73d81cd99f3d25",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/.aiexclude",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/.aiexclude?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/014cd9be4f2e25827c54703c4c73d81cd99f3d25",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/.aiexclude"
+    }
+  },
+  {
+    "name": ".gitattributes",
+    "path": ".gitattributes",
+    "sha": "dfe0770424b2a19faf507a501ebfc23be8f54e7b",
+    "size": 66,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/.gitattributes?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/.gitattributes",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/dfe0770424b2a19faf507a501ebfc23be8f54e7b",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/.gitattributes",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/.gitattributes?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/dfe0770424b2a19faf507a501ebfc23be8f54e7b",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/.gitattributes"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "164a6ebbe9e1a187d1708c2d3753dfe061957494",
+    "size": 0,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/.github?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/tree/main/.github",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/trees/164a6ebbe9e1a187d1708c2d3753dfe061957494",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/.github?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/trees/164a6ebbe9e1a187d1708c2d3753dfe061957494",
+      "html": "https://github.com/julerobb1/Processor-Emulator/tree/main/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "db046cb0b69dad9673164f7398503afc7a0ad339",
+    "size": 715,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/db046cb0b69dad9673164f7398503afc7a0ad339",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/db046cb0b69dad9673164f7398503afc7a0ad339",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": ".vscode",
+    "path": ".vscode",
+    "sha": "a7b5172d9e23c1273540ca4402d01292a7ba92b9",
+    "size": 0,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/.vscode?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/tree/main/.vscode",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/trees/a7b5172d9e23c1273540ca4402d01292a7ba92b9",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/.vscode?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/trees/a7b5172d9e23c1273540ca4402d01292a7ba92b9",
+      "html": "https://github.com/julerobb1/Processor-Emulator/tree/main/.vscode"
+    }
+  },
+  {
+    "name": "AeroGlassHelper.cs",
+    "path": "AeroGlassHelper.cs",
+    "sha": "a6c036752cc7b77d0b966cb8bbc26d08f7efb64d",
+    "size": 6097,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/AeroGlassHelper.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/AeroGlassHelper.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/a6c036752cc7b77d0b966cb8bbc26d08f7efb64d",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/AeroGlassHelper.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/AeroGlassHelper.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/a6c036752cc7b77d0b966cb8bbc26d08f7efb64d",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/AeroGlassHelper.cs"
+    }
+  },
+  {
+    "name": "App.xaml",
+    "path": "App.xaml",
+    "sha": "369c7d2fee748440b1da1f412b422583f3db8e04",
+    "size": 439,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/App.xaml?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/App.xaml",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/369c7d2fee748440b1da1f412b422583f3db8e04",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/App.xaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/App.xaml?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/369c7d2fee748440b1da1f412b422583f3db8e04",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/App.xaml"
+    }
+  },
+  {
+    "name": "App.xaml.cs",
+    "path": "App.xaml.cs",
+    "sha": "126bc3e1fd87a4ae645619ab5b9b986ad5fdbb51",
+    "size": 3559,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/App.xaml.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/App.xaml.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/126bc3e1fd87a4ae645619ab5b9b986ad5fdbb51",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/App.xaml.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/App.xaml.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/126bc3e1fd87a4ae645619ab5b9b986ad5fdbb51",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/App.xaml.cs"
+    }
+  },
+  {
+    "name": "AppThemeManager.cs",
+    "path": "AppThemeManager.cs",
+    "sha": "8011006372e35a55545c1a8e7a76edf63075bde8",
+    "size": 2429,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/AppThemeManager.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/AppThemeManager.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/8011006372e35a55545c1a8e7a76edf63075bde8",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/AppThemeManager.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/AppThemeManager.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/8011006372e35a55545c1a8e7a76edf63075bde8",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/AppThemeManager.cs"
+    }
+  },
+  {
+    "name": "ArchiveExtractor.cs",
+    "path": "ArchiveExtractor.cs",
+    "sha": "ae66227788226c88435351a978e88349b737a92c",
+    "size": 15986,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/ArchiveExtractor.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/ArchiveExtractor.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/ae66227788226c88435351a978e88349b737a92c",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/ArchiveExtractor.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/ArchiveExtractor.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/ae66227788226c88435351a978e88349b737a92c",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/ArchiveExtractor.cs"
+    }
+  },
+  {
+    "name": "ArmCpuEmulator.cs",
+    "path": "ArmCpuEmulator.cs",
+    "sha": "039003e1ba4d72f79a6dcb4c71e06e489a99c232",
+    "size": 4993,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/ArmCpuEmulator.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/ArmCpuEmulator.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/039003e1ba4d72f79a6dcb4c71e06e489a99c232",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/ArmCpuEmulator.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/ArmCpuEmulator.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/039003e1ba4d72f79a6dcb4c71e06e489a99c232",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/ArmCpuEmulator.cs"
+    }
+  },
+  {
+    "name": "ArmHypervisor.cs",
+    "path": "ArmHypervisor.cs",
+    "sha": "44c0d6d3ae4b7ff8355dab82d0dd4a36ddb535e4",
+    "size": 17663,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/ArmHypervisor.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/ArmHypervisor.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/44c0d6d3ae4b7ff8355dab82d0dd4a36ddb535e4",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/ArmHypervisor.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/ArmHypervisor.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/44c0d6d3ae4b7ff8355dab82d0dd4a36ddb535e4",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/ArmHypervisor.cs"
+    }
+  },
+  {
+    "name": "BOLT_README.md",
+    "path": "BOLT_README.md",
+    "sha": "47e208b06f8494c3448dc1954c2bd535b119078e",
+    "size": 4137,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/BOLT_README.md?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/BOLT_README.md",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/47e208b06f8494c3448dc1954c2bd535b119078e",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/BOLT_README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/BOLT_README.md?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/47e208b06f8494c3448dc1954c2bd535b119078e",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/BOLT_README.md"
+    }
+  },
+  {
+    "name": "BUILD_STATUS.md",
+    "path": "BUILD_STATUS.md",
+    "sha": "9e8f0da3e3f1951bd1109ee70c2cbcbb0dbf8082",
+    "size": 1831,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/BUILD_STATUS.md?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/BUILD_STATUS.md",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/9e8f0da3e3f1951bd1109ee70c2cbcbb0dbf8082",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/BUILD_STATUS.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/BUILD_STATUS.md?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/9e8f0da3e3f1951bd1109ee70c2cbcbb0dbf8082",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/BUILD_STATUS.md"
+    }
+  },
+  {
+    "name": "BcmInterruptController.cs",
+    "path": "BcmInterruptController.cs",
+    "sha": "793ca05df46d5d7fc31bb9747e29e04f009703fb",
+    "size": 1059,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/BcmInterruptController.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/BcmInterruptController.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/793ca05df46d5d7fc31bb9747e29e04f009703fb",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/BcmInterruptController.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/BcmInterruptController.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/793ca05df46d5d7fc31bb9747e29e04f009703fb",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/BcmInterruptController.cs"
+    }
+  },
+  {
+    "name": "BcmUart.cs",
+    "path": "BcmUart.cs",
+    "sha": "310cfef04bb40a0d0ea4f90afaccd4bd94b6aad3",
+    "size": 993,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/BcmUart.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/BcmUart.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/310cfef04bb40a0d0ea4f90afaccd4bd94b6aad3",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/BcmUart.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/BcmUart.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/310cfef04bb40a0d0ea4f90afaccd4bd94b6aad3",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/BcmUart.cs"
+    }
+  },
+  {
+    "name": "BinaryScanner.cs",
+    "path": "BinaryScanner.cs",
+    "sha": "75828020ca35ab6d2299eca08f0461ae5a3a200d",
+    "size": 1917,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/BinaryScanner.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/BinaryScanner.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/75828020ca35ab6d2299eca08f0461ae5a3a200d",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/BinaryScanner.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/BinaryScanner.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/75828020ca35ab6d2299eca08f0461ae5a3a200d",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/BinaryScanner.cs"
+    }
+  },
+  {
+    "name": "BoltDemo.cs",
+    "path": "BoltDemo.cs",
+    "sha": "1179bb2547ad6652a364e57ff89fd5153b9fd501",
+    "size": 5410,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/BoltDemo.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/BoltDemo.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/1179bb2547ad6652a364e57ff89fd5153b9fd501",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/BoltDemo.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/BoltDemo.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/1179bb2547ad6652a364e57ff89fd5153b9fd501",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/BoltDemo.cs"
+    }
+  },
+  {
+    "name": "BoltDemo.csproj",
+    "path": "BoltDemo.csproj",
+    "sha": "5295af57ea1b49f518fa605225d68ccc2f77ec2b",
+    "size": 306,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/BoltDemo.csproj?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/BoltDemo.csproj",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/5295af57ea1b49f518fa605225d68ccc2f77ec2b",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/BoltDemo.csproj",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/BoltDemo.csproj?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/5295af57ea1b49f518fa605225d68ccc2f77ec2b",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/BoltDemo.csproj"
+    }
+  },
+  {
+    "name": "BoltDemo_Standalone",
+    "path": "BoltDemo_Standalone",
+    "sha": "30a61425b497e85dbbad3fffe8a7566851ba6928",
+    "size": 0,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/BoltDemo_Standalone?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/tree/main/BoltDemo_Standalone",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/trees/30a61425b497e85dbbad3fffe8a7566851ba6928",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/BoltDemo_Standalone?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/trees/30a61425b497e85dbbad3fffe8a7566851ba6928",
+      "html": "https://github.com/julerobb1/Processor-Emulator/tree/main/BoltDemo_Standalone"
+    }
+  },
+  {
+    "name": "BoltEmulatorBridge.cs",
+    "path": "BoltEmulatorBridge.cs",
+    "sha": "474426d329f139af1a44817bd7ba6577ff09a176",
+    "size": 9653,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/BoltEmulatorBridge.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/BoltEmulatorBridge.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/474426d329f139af1a44817bd7ba6577ff09a176",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/BoltEmulatorBridge.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/BoltEmulatorBridge.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/474426d329f139af1a44817bd7ba6577ff09a176",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/BoltEmulatorBridge.cs"
+    }
+  },
+  {
+    "name": "BootValidationTest.cs",
+    "path": "BootValidationTest.cs",
+    "sha": "d84719a512fc72d1bc9e6bdbf2e7e1b9b7379226",
+    "size": 11414,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/BootValidationTest.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/BootValidationTest.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/d84719a512fc72d1bc9e6bdbf2e7e1b9b7379226",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/BootValidationTest.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/BootValidationTest.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/d84719a512fc72d1bc9e6bdbf2e7e1b9b7379226",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/BootValidationTest.cs"
+    }
+  },
+  {
+    "name": "CMTSEmulator.cs",
+    "path": "CMTSEmulator.cs",
+    "sha": "d4df19cf7f842c2f120425444e6aadead6502ece",
+    "size": 11587,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/CMTSEmulator.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/CMTSEmulator.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/d4df19cf7f842c2f120425444e6aadead6502ece",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/CMTSEmulator.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/CMTSEmulator.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/d4df19cf7f842c2f120425444e6aadead6502ece",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/CMTSEmulator.cs"
+    }
+  },
+  {
+    "name": "COMCAST_X1_INTEGRATION.md",
+    "path": "COMCAST_X1_INTEGRATION.md",
+    "sha": "7a9c7e6fef355fdac868f7ab6a20e6ada8739aff",
+    "size": 9099,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/COMCAST_X1_INTEGRATION.md?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/COMCAST_X1_INTEGRATION.md",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/7a9c7e6fef355fdac868f7ab6a20e6ada8739aff",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/COMCAST_X1_INTEGRATION.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/COMCAST_X1_INTEGRATION.md?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/7a9c7e6fef355fdac868f7ab6a20e6ada8739aff",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/COMCAST_X1_INTEGRATION.md"
+    }
+  },
+  {
+    "name": "CP0.cs",
+    "path": "CP0.cs",
+    "sha": "581df78038477d8f2b8ed816b796c1bfe492feff",
+    "size": 5090,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/CP0.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/CP0.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/581df78038477d8f2b8ed816b796c1bfe492feff",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/CP0.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/CP0.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/581df78038477d8f2b8ed816b796c1bfe492feff",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/CP0.cs"
+    }
+  },
+  {
+    "name": "CarlContainmentProtocol.cs",
+    "path": "CarlContainmentProtocol.cs",
+    "sha": "689d4e8cd01e7d97b4c2de42851cd78b97315a29",
+    "size": 9337,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/CarlContainmentProtocol.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/CarlContainmentProtocol.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/689d4e8cd01e7d97b4c2de42851cd78b97315a29",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/CarlContainmentProtocol.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/CarlContainmentProtocol.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/689d4e8cd01e7d97b4c2de42851cd78b97315a29",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/CarlContainmentProtocol.cs"
+    }
+  },
+  {
+    "name": "CarlMode.xaml",
+    "path": "CarlMode.xaml",
+    "sha": "865a20a8f18bd2aba103f2033116f72a8d94cd19",
+    "size": 3930,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/CarlMode.xaml?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/CarlMode.xaml",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/865a20a8f18bd2aba103f2033116f72a8d94cd19",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/CarlMode.xaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/CarlMode.xaml?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/865a20a8f18bd2aba103f2033116f72a8d94cd19",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/CarlMode.xaml"
+    }
+  },
+  {
+    "name": "ClassicStyle.xaml",
+    "path": "ClassicStyle.xaml",
+    "sha": "ef545631a0b482324d9b4e30c4ffb411c68c91be",
+    "size": 6768,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/ClassicStyle.xaml?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/ClassicStyle.xaml",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/ef545631a0b482324d9b4e30c4ffb411c68c91be",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/ClassicStyle.xaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/ClassicStyle.xaml?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/ef545631a0b482324d9b4e30c4ffb411c68c91be",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/ClassicStyle.xaml"
+    }
+  },
+  {
+    "name": "ComcastDomainParser.cs",
+    "path": "ComcastDomainParser.cs",
+    "sha": "c0d4329df1783e9bbc31984509442e360a13cbb7",
+    "size": 24899,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/ComcastDomainParser.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/ComcastDomainParser.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/c0d4329df1783e9bbc31984509442e360a13cbb7",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/ComcastDomainParser.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/ComcastDomainParser.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/c0d4329df1783e9bbc31984509442e360a13cbb7",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/ComcastDomainParser.cs"
+    }
+  },
+  {
+    "name": "ComcastDomainParserDemo.cs",
+    "path": "ComcastDomainParserDemo.cs",
+    "sha": "683963ece11812131449f3db6ea64a825ba97d33",
+    "size": 5298,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/ComcastDomainParserDemo.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/ComcastDomainParserDemo.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/683963ece11812131449f3db6ea64a825ba97d33",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/ComcastDomainParserDemo.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/ComcastDomainParserDemo.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/683963ece11812131449f3db6ea64a825ba97d33",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/ComcastDomainParserDemo.cs"
+    }
+  },
+  {
+    "name": "ComcastServiceEmulator.cs",
+    "path": "ComcastServiceEmulator.cs",
+    "sha": "ea2536de334249a3dff3caaf29acb4840080125c",
+    "size": 22608,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/ComcastServiceEmulator.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/ComcastServiceEmulator.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/ea2536de334249a3dff3caaf29acb4840080125c",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/ComcastServiceEmulator.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/ComcastServiceEmulator.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/ea2536de334249a3dff3caaf29acb4840080125c",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/ComcastServiceEmulator.cs"
+    }
+  },
+  {
+    "name": "ComcastX1Emulator.cs",
+    "path": "ComcastX1Emulator.cs",
+    "sha": "5e86c868319f65b5ce4f988d5b8c25ee376b67a1",
+    "size": 44514,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/ComcastX1Emulator.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/ComcastX1Emulator.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/5e86c868319f65b5ce4f988d5b8c25ee376b67a1",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/ComcastX1Emulator.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/ComcastX1Emulator.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/5e86c868319f65b5ce4f988d5b8c25ee376b67a1",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/ComcastX1Emulator.cs"
+    }
+  },
+  {
+    "name": "ComcastX1Emulator_Universal.cs",
+    "path": "ComcastX1Emulator_Universal.cs",
+    "sha": "3cda0ecc39813673bc82e5670eed063e931105bc",
+    "size": 1001,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/ComcastX1Emulator_Universal.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/ComcastX1Emulator_Universal.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/3cda0ecc39813673bc82e5670eed063e931105bc",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/ComcastX1Emulator_Universal.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/ComcastX1Emulator_Universal.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/3cda0ecc39813673bc82e5670eed063e931105bc",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/ComcastX1Emulator_Universal.cs"
+    }
+  },
+  {
+    "name": "ComcastX1Test.cs",
+    "path": "ComcastX1Test.cs",
+    "sha": "f4b48689fe0b924b8d81227b4bddfc0cbbd2aa9f",
+    "size": 6106,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/ComcastX1Test.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/ComcastX1Test.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/f4b48689fe0b924b8d81227b4bddfc0cbbd2aa9f",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/ComcastX1Test.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/ComcastX1Test.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/f4b48689fe0b924b8d81227b4bddfc0cbbd2aa9f",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/ComcastX1Test.cs"
+    }
+  },
+  {
+    "name": "ComprehensiveFirmwareExtractor.cs",
+    "path": "ComprehensiveFirmwareExtractor.cs",
+    "sha": "62456518180af0d8b5c584fbe14b5b3a54ce1bcc",
+    "size": 28762,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/ComprehensiveFirmwareExtractor.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/ComprehensiveFirmwareExtractor.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/62456518180af0d8b5c584fbe14b5b3a54ce1bcc",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/ComprehensiveFirmwareExtractor.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/ComprehensiveFirmwareExtractor.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/62456518180af0d8b5c584fbe14b5b3a54ce1bcc",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/ComprehensiveFirmwareExtractor.cs"
+    }
+  },
+  {
+    "name": "Core",
+    "path": "Core",
+    "sha": "e43d2d07e29a2de15b00924f0d14bd2d528ea94f",
+    "size": 0,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/Core?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/tree/main/Core",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/trees/e43d2d07e29a2de15b00924f0d14bd2d528ea94f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/Core?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/trees/e43d2d07e29a2de15b00924f0d14bd2d528ea94f",
+      "html": "https://github.com/julerobb1/Processor-Emulator/tree/main/Core"
+    }
+  },
+  {
+    "name": "CortexA15Cpu.cs",
+    "path": "CortexA15Cpu.cs",
+    "sha": "c9019aab110e10a0f86e0f7de9e0e5b3632945b2",
+    "size": 16654,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/CortexA15Cpu.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/CortexA15Cpu.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/c9019aab110e10a0f86e0f7de9e0e5b3632945b2",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/CortexA15Cpu.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/CortexA15Cpu.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/c9019aab110e10a0f86e0f7de9e0e5b3632945b2",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/CortexA15Cpu.cs"
+    }
+  },
+  {
+    "name": "CpuCore.cs",
+    "path": "CpuCore.cs",
+    "sha": "6667cd940d97d43935e52684e48bca953d0a77ac",
+    "size": 4132,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/CpuCore.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/CpuCore.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/6667cd940d97d43935e52684e48bca953d0a77ac",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/CpuCore.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/CpuCore.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/6667cd940d97d43935e52684e48bca953d0a77ac",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/CpuCore.cs"
+    }
+  },
+  {
+    "name": "CustomArmBios.cs",
+    "path": "CustomArmBios.cs",
+    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "size": 0,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/CustomArmBios.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/CustomArmBios.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/CustomArmBios.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/CustomArmBios.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/CustomArmBios.cs"
+    }
+  },
+  {
+    "name": "DirecTVEmulator.cs",
+    "path": "DirecTVEmulator.cs",
+    "sha": "76633a7e5e8ddd2b9fd88e5cd74035a1df1f3d38",
+    "size": 2353,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/DirecTVEmulator.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/DirecTVEmulator.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/76633a7e5e8ddd2b9fd88e5cd74035a1df1f3d38",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/DirecTVEmulator.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/DirecTVEmulator.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/76633a7e5e8ddd2b9fd88e5cd74035a1df1f3d38",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/DirecTVEmulator.cs"
+    }
+  },
+  {
+    "name": "DocsisSecurityFramework.cs",
+    "path": "DocsisSecurityFramework.cs",
+    "sha": "e67136b53663da7d5097fa18ad49e371f309fac8",
+    "size": 10401,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/DocsisSecurityFramework.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/DocsisSecurityFramework.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/e67136b53663da7d5097fa18ad49e371f309fac8",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/DocsisSecurityFramework.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/DocsisSecurityFramework.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/e67136b53663da7d5097fa18ad49e371f309fac8",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/DocsisSecurityFramework.cs"
+    }
+  },
+  {
+    "name": "DvrVxWorksDetector.cs",
+    "path": "DvrVxWorksDetector.cs",
+    "sha": "9659bd7db8820efb595a7daaf15ee9ee44a01702",
+    "size": 7317,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/DvrVxWorksDetector.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/DvrVxWorksDetector.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/9659bd7db8820efb595a7daaf15ee9ee44a01702",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/DvrVxWorksDetector.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/DvrVxWorksDetector.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/9659bd7db8820efb595a7daaf15ee9ee44a01702",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/DvrVxWorksDetector.cs"
+    }
+  },
+  {
+    "name": "Emulation.cs",
+    "path": "Emulation.cs",
+    "sha": "a5386148d85942d53ddb827969868ed5e2591c43",
+    "size": 12577,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/Emulation.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/Emulation.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/a5386148d85942d53ddb827969868ed5e2591c43",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/Emulation.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/Emulation.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/a5386148d85942d53ddb827969868ed5e2591c43",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/Emulation.cs"
+    }
+  },
+  {
+    "name": "Emulation",
+    "path": "Emulation",
+    "sha": "33d1a30041757410fd6532ddfeaf71ec6ea99f4f",
+    "size": 0,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/Emulation?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/tree/main/Emulation",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/trees/33d1a30041757410fd6532ddfeaf71ec6ea99f4f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/Emulation?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/trees/33d1a30041757410fd6532ddfeaf71ec6ea99f4f",
+      "html": "https://github.com/julerobb1/Processor-Emulator/tree/main/Emulation"
+    }
+  },
+  {
+    "name": "EmulationLogPanel.cs",
+    "path": "EmulationLogPanel.cs",
+    "sha": "d2bd13bcea74554e15e2dccde7d97eebde21bf59",
+    "size": 16006,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/EmulationLogPanel.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/EmulationLogPanel.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/d2bd13bcea74554e15e2dccde7d97eebde21bf59",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/EmulationLogPanel.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/EmulationLogPanel.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/d2bd13bcea74554e15e2dccde7d97eebde21bf59",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/EmulationLogPanel.cs"
+    }
+  },
+  {
+    "name": "EmulatorConsole.cs",
+    "path": "EmulatorConsole.cs",
+    "sha": "e4a3e6c57939c93b84b04501ac737e41735b1d71",
+    "size": 2641,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/EmulatorConsole.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/EmulatorConsole.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/e4a3e6c57939c93b84b04501ac737e41735b1d71",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/EmulatorConsole.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/EmulatorConsole.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/e4a3e6c57939c93b84b04501ac737e41735b1d71",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/EmulatorConsole.cs"
+    }
+  },
+  {
+    "name": "EmulatorLauncher.cs",
+    "path": "EmulatorLauncher.cs",
+    "sha": "11a350c382d8bf539b9537d53581fb7c3064fc68",
+    "size": 1758,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/EmulatorLauncher.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/EmulatorLauncher.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/11a350c382d8bf539b9537d53581fb7c3064fc68",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/EmulatorLauncher.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/EmulatorLauncher.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/11a350c382d8bf539b9537d53581fb7c3064fc68",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/EmulatorLauncher.cs"
+    }
+  },
+  {
+    "name": "ErrorManager.cs",
+    "path": "ErrorManager.cs",
+    "sha": "963a86b0d94e17f2a13612954a594f76b45817da",
+    "size": 15694,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/ErrorManager.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/ErrorManager.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/963a86b0d94e17f2a13612954a594f76b45817da",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/ErrorManager.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/ErrorManager.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/963a86b0d94e17f2a13612954a594f76b45817da",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/ErrorManager.cs"
+    }
+  },
+  {
+    "name": "ExoticFilesystemManager.cs",
+    "path": "ExoticFilesystemManager.cs",
+    "sha": "259e101804a70a3b5fd6baa794a2375dadaedfd9",
+    "size": 20697,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/ExoticFilesystemManager.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/ExoticFilesystemManager.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/259e101804a70a3b5fd6baa794a2375dadaedfd9",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/ExoticFilesystemManager.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/ExoticFilesystemManager.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/259e101804a70a3b5fd6baa794a2375dadaedfd9",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/ExoticFilesystemManager.cs"
+    }
+  },
+  {
+    "name": "FEATURE_NOTES.md",
+    "path": "FEATURE_NOTES.md",
+    "sha": "71d811d6dfc443d82a73bed2f1a32e90af94b4fe",
+    "size": 3250,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/FEATURE_NOTES.md?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/FEATURE_NOTES.md",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/71d811d6dfc443d82a73bed2f1a32e90af94b4fe",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/FEATURE_NOTES.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/FEATURE_NOTES.md?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/71d811d6dfc443d82a73bed2f1a32e90af94b4fe",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/FEATURE_NOTES.md"
+    }
+  },
+  {
+    "name": "FileSystemManager.cs",
+    "path": "FileSystemManager.cs",
+    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "size": 0,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/FileSystemManager.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/FileSystemManager.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/FileSystemManager.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/FileSystemManager.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/FileSystemManager.cs"
+    }
+  },
+  {
+    "name": "FileSystems.cs",
+    "path": "FileSystems.cs",
+    "sha": "98e5567bf58fc0f879fae54f0427bf2ab71fc093",
+    "size": 9716,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/FileSystems.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/FileSystems.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/98e5567bf58fc0f879fae54f0427bf2ab71fc093",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/FileSystems.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/FileSystems.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/98e5567bf58fc0f879fae54f0427bf2ab71fc093",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/FileSystems.cs"
+    }
+  },
+  {
+    "name": "FilesystemProber.cs",
+    "path": "FilesystemProber.cs",
+    "sha": "08b37b6790d9cb69ed8da66ed78513c2dbdfc342",
+    "size": 1786,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/FilesystemProber.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/FilesystemProber.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/08b37b6790d9cb69ed8da66ed78513c2dbdfc342",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/FilesystemProber.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/FilesystemProber.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/08b37b6790d9cb69ed8da66ed78513c2dbdfc342",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/FilesystemProber.cs"
+    }
+  },
+  {
+    "name": "FirmwareAnalyzer.cs",
+    "path": "FirmwareAnalyzer.cs",
+    "sha": "a66b2424a2813d7b73865af5270fe4464e001e0a",
+    "size": 2386,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/FirmwareAnalyzer.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/FirmwareAnalyzer.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/a66b2424a2813d7b73865af5270fe4464e001e0a",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/FirmwareAnalyzer.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/FirmwareAnalyzer.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/a66b2424a2813d7b73865af5270fe4464e001e0a",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/FirmwareAnalyzer.cs"
+    }
+  },
+  {
+    "name": "FirmwareLoader.cs",
+    "path": "FirmwareLoader.cs",
+    "sha": "e7851ac97b6fede9ac3a35f4f11a46e20801fa11",
+    "size": 11494,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/FirmwareLoader.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/FirmwareLoader.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/e7851ac97b6fede9ac3a35f4f11a46e20801fa11",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/FirmwareLoader.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/FirmwareLoader.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/e7851ac97b6fede9ac3a35f4f11a46e20801fa11",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/FirmwareLoader.cs"
+    }
+  },
+  {
+    "name": "FirmwareRegionAnalyzer.cs",
+    "path": "FirmwareRegionAnalyzer.cs",
+    "sha": "f0b8020d978e545779323c3e355372840b722d8c",
+    "size": 17207,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/FirmwareRegionAnalyzer.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/FirmwareRegionAnalyzer.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/f0b8020d978e545779323c3e355372840b722d8c",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/FirmwareRegionAnalyzer.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/FirmwareRegionAnalyzer.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/f0b8020d978e545779323c3e355372840b722d8c",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/FirmwareRegionAnalyzer.cs"
+    }
+  },
+  {
+    "name": "FirmwareStreamer.cs",
+    "path": "FirmwareStreamer.cs",
+    "sha": "21087a0c655a31a69f050432a5e4f4f536477a34",
+    "size": 3736,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/FirmwareStreamer.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/FirmwareStreamer.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/21087a0c655a31a69f050432a5e4f4f536477a34",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/FirmwareStreamer.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/FirmwareStreamer.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/21087a0c655a31a69f050432a5e4f4f536477a34",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/FirmwareStreamer.cs"
+    }
+  },
+  {
+    "name": "FirmwareUnpackException.cs",
+    "path": "FirmwareUnpackException.cs",
+    "sha": "a500b4a8925295f6913d21f04c6cea4fc6b26cab",
+    "size": 509,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/FirmwareUnpackException.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/FirmwareUnpackException.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/a500b4a8925295f6913d21f04c6cea4fc6b26cab",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/FirmwareUnpackException.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/FirmwareUnpackException.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/a500b4a8925295f6913d21f04c6cea4fc6b26cab",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/FirmwareUnpackException.cs"
+    }
+  },
+  {
+    "name": "FirmwareUnpacker.cs",
+    "path": "FirmwareUnpacker.cs",
+    "sha": "5c27381fff7c2db04c19087d7291507259f7a97f",
+    "size": 6939,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/FirmwareUnpacker.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/FirmwareUnpacker.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/5c27381fff7c2db04c19087d7291507259f7a97f",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/FirmwareUnpacker.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/FirmwareUnpacker.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/5c27381fff7c2db04c19087d7291507259f7a97f",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/FirmwareUnpacker.cs"
+    }
+  },
+  {
+    "name": "FolderAnalysisWindow.cs",
+    "path": "FolderAnalysisWindow.cs",
+    "sha": "cbf131622c344ac8c37535f0abd43894562c2135",
+    "size": 4335,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/FolderAnalysisWindow.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/FolderAnalysisWindow.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/cbf131622c344ac8c37535f0abd43894562c2135",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/FolderAnalysisWindow.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/FolderAnalysisWindow.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/cbf131622c344ac8c37535f0abd43894562c2135",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/FolderAnalysisWindow.cs"
+    }
+  },
+  {
+    "name": "FolderAnalysisWindow.xaml",
+    "path": "FolderAnalysisWindow.xaml",
+    "sha": "7fe328c4c4fcb990a4e12567f8f82df00e997856",
+    "size": 778,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/FolderAnalysisWindow.xaml?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/FolderAnalysisWindow.xaml",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/7fe328c4c4fcb990a4e12567f8f82df00e997856",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/FolderAnalysisWindow.xaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/FolderAnalysisWindow.xaml?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/7fe328c4c4fcb990a4e12567f8f82df00e997856",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/FolderAnalysisWindow.xaml"
+    }
+  },
+  {
+    "name": "FolderAnalysisWindow.xaml.cs",
+    "path": "FolderAnalysisWindow.xaml.cs",
+    "sha": "06066c752c8aedbad02a307e770e36a3b085f8c2",
+    "size": 665,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/FolderAnalysisWindow.xaml.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/FolderAnalysisWindow.xaml.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/06066c752c8aedbad02a307e770e36a3b085f8c2",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/FolderAnalysisWindow.xaml.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/FolderAnalysisWindow.xaml.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/06066c752c8aedbad02a307e770e36a3b085f8c2",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/FolderAnalysisWindow.xaml.cs"
+    }
+  },
+  {
+    "name": "HypervisorWindow.xaml",
+    "path": "HypervisorWindow.xaml",
+    "sha": "a11d3983a2b46f9bf32a982800fec6e5bfb7f794",
+    "size": 258,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/HypervisorWindow.xaml?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/HypervisorWindow.xaml",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/a11d3983a2b46f9bf32a982800fec6e5bfb7f794",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/HypervisorWindow.xaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/HypervisorWindow.xaml?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/a11d3983a2b46f9bf32a982800fec6e5bfb7f794",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/HypervisorWindow.xaml"
+    }
+  },
+  {
+    "name": "HypervisorWindow.xaml.cs",
+    "path": "HypervisorWindow.xaml.cs",
+    "sha": "a71b79e2558f5b41b545db4be80bda51df7b4c12",
+    "size": 5836,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/HypervisorWindow.xaml.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/HypervisorWindow.xaml.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/a71b79e2558f5b41b545db4be80bda51df7b4c12",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/HypervisorWindow.xaml.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/HypervisorWindow.xaml.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/a71b79e2558f5b41b545db4be80bda51df7b4c12",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/HypervisorWindow.xaml.cs"
+    }
+  },
+  {
+    "name": "IBusDevice.cs",
+    "path": "IBusDevice.cs",
+    "sha": "0ce12808087361713f4d28433120e69e2b372c97",
+    "size": 309,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/IBusDevice.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/IBusDevice.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/0ce12808087361713f4d28433120e69e2b372c97",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/IBusDevice.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/IBusDevice.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/0ce12808087361713f4d28433120e69e2b372c97",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/IBusDevice.cs"
+    }
+  },
+  {
+    "name": "IChipsetEmulator.cs",
+    "path": "IChipsetEmulator.cs",
+    "sha": "dd4e3b5fad4838c4869785aa3b4a389c0b8188ca",
+    "size": 311,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/IChipsetEmulator.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/IChipsetEmulator.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/dd4e3b5fad4838c4869785aa3b4a389c0b8188ca",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/IChipsetEmulator.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/IChipsetEmulator.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/dd4e3b5fad4838c4869785aa3b4a389c0b8188ca",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/IChipsetEmulator.cs"
+    }
+  },
+  {
+    "name": "IEmulator.cs",
+    "path": "IEmulator.cs",
+    "sha": "a40f17d0a2332bc3f17980cd2e574cb335bbc468",
+    "size": 848,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/IEmulator.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/IEmulator.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/a40f17d0a2332bc3f17980cd2e574cb335bbc468",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/IEmulator.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/IEmulator.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/a40f17d0a2332bc3f17980cd2e574cb335bbc468",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/IEmulator.cs"
+    }
+  },
+  {
+    "name": "IManifestProvider.cs",
+    "path": "IManifestProvider.cs",
+    "sha": "bc7bbcf0857dc1c5d482325c1cb61436ddbf2612",
+    "size": 455,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/IManifestProvider.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/IManifestProvider.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/bc7bbcf0857dc1c5d482325c1cb61436ddbf2612",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/IManifestProvider.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/IManifestProvider.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/bc7bbcf0857dc1c5d482325c1cb61436ddbf2612",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/IManifestProvider.cs"
+    }
+  },
+  {
+    "name": "ISP_DVR_Research_Integration.cs",
+    "path": "ISP_DVR_Research_Integration.cs",
+    "sha": "9775493bacbf8fa86be4a902adcc89c9fb2a5c54",
+    "size": 26894,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/ISP_DVR_Research_Integration.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/ISP_DVR_Research_Integration.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/9775493bacbf8fa86be4a902adcc89c9fb2a5c54",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/ISP_DVR_Research_Integration.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/ISP_DVR_Research_Integration.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/9775493bacbf8fa86be4a902adcc89c9fb2a5c54",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/ISP_DVR_Research_Integration.cs"
+    }
+  },
+  {
+    "name": "InstructionDispatcher.cs",
+    "path": "InstructionDispatcher.cs",
+    "sha": "54ca36d9c8aa97d0d03803d35610de32d972f99c",
+    "size": 2005,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/InstructionDispatcher.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/InstructionDispatcher.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/54ca36d9c8aa97d0d03803d35610de32d972f99c",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/InstructionDispatcher.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/InstructionDispatcher.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/54ca36d9c8aa97d0d03803d35610de32d972f99c",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/InstructionDispatcher.cs"
+    }
+  },
+  {
+    "name": "InstructionTranslator.cs",
+    "path": "InstructionTranslator.cs",
+    "sha": "062a245042cc8f27565a748580d5b72b61d94d05",
+    "size": 14578,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/InstructionTranslator.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/InstructionTranslator.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/062a245042cc8f27565a748580d5b72b61d94d05",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/InstructionTranslator.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/InstructionTranslator.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/062a245042cc8f27565a748580d5b72b61d94d05",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/InstructionTranslator.cs"
+    }
+  },
+  {
+    "name": "InstructionTranslator_Archive.cs",
+    "path": "InstructionTranslator_Archive.cs",
+    "sha": "7392e7c370f2a5eb12f4023388f3b3e72223fbf5",
+    "size": 2488,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/InstructionTranslator_Archive.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/InstructionTranslator_Archive.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/7392e7c370f2a5eb12f4023388f3b3e72223fbf5",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/InstructionTranslator_Archive.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/InstructionTranslator_Archive.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/7392e7c370f2a5eb12f4023388f3b3e72223fbf5",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/InstructionTranslator_Archive.cs"
+    }
+  },
+  {
+    "name": "LinuxFileSystems.cs",
+    "path": "LinuxFileSystems.cs",
+    "sha": "fc8c66fb0bad8882dc9e76bb01d92c8600a39e5c",
+    "size": 10738,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/LinuxFileSystems.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/LinuxFileSystems.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/fc8c66fb0bad8882dc9e76bb01d92c8600a39e5c",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/LinuxFileSystems.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/LinuxFileSystems.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/fc8c66fb0bad8882dc9e76bb01d92c8600a39e5c",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/LinuxFileSystems.cs"
+    }
+  },
+  {
+    "name": "MainWindow.Themes.cs",
+    "path": "MainWindow.Themes.cs",
+    "sha": "87c6f8a5d89704e158b18cf5d5edb34897430178",
+    "size": 4798,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/MainWindow.Themes.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/MainWindow.Themes.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/87c6f8a5d89704e158b18cf5d5edb34897430178",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/MainWindow.Themes.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/MainWindow.Themes.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/87c6f8a5d89704e158b18cf5d5edb34897430178",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/MainWindow.Themes.cs"
+    }
+  },
+  {
+    "name": "MainWindow.xaml",
+    "path": "MainWindow.xaml",
+    "sha": "f8477b91e3b460c77b337d0da264974376c3555c",
+    "size": 37732,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/MainWindow.xaml?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/MainWindow.xaml",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/f8477b91e3b460c77b337d0da264974376c3555c",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/MainWindow.xaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/MainWindow.xaml?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/f8477b91e3b460c77b337d0da264974376c3555c",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/MainWindow.xaml"
+    }
+  },
+  {
+    "name": "MainWindow.xaml.cs",
+    "path": "MainWindow.xaml.cs",
+    "sha": "2cf3ade1df3df4f39bdc79ebcb5ff599ec1f4217",
+    "size": 139138,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/MainWindow.xaml.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/MainWindow.xaml.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/2cf3ade1df3df4f39bdc79ebcb5ff599ec1f4217",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/MainWindow.xaml.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/MainWindow.xaml.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/2cf3ade1df3df4f39bdc79ebcb5ff599ec1f4217",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/MainWindow.xaml.cs"
+    }
+  },
+  {
+    "name": "MediaroomBootManager.cs",
+    "path": "MediaroomBootManager.cs",
+    "sha": "258f7b5fd313261c6d0d2a9d0db0f8141d812102",
+    "size": 20786,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/MediaroomBootManager.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/MediaroomBootManager.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/258f7b5fd313261c6d0d2a9d0db0f8141d812102",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/MediaroomBootManager.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/MediaroomBootManager.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/258f7b5fd313261c6d0d2a9d0db0f8141d812102",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/MediaroomBootManager.cs"
+    }
+  },
+  {
+    "name": "MemoryMap.cs",
+    "path": "MemoryMap.cs",
+    "sha": "a38d6603a618df5c49e327c3045a3c75eb6f0b1c",
+    "size": 6251,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/MemoryMap.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/MemoryMap.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/a38d6603a618df5c49e327c3045a3c75eb6f0b1c",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/MemoryMap.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/MemoryMap.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/a38d6603a618df5c49e327c3045a3c75eb6f0b1c",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/MemoryMap.cs"
+    }
+  },
+  {
+    "name": "MipsBus.cs",
+    "path": "MipsBus.cs",
+    "sha": "bcd88a91d2ea887b014248b7b348acfa6d477743",
+    "size": 3689,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/MipsBus.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/MipsBus.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/bcd88a91d2ea887b014248b7b348acfa6d477743",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/MipsBus.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/MipsBus.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/bcd88a91d2ea887b014248b7b348acfa6d477743",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/MipsBus.cs"
+    }
+  },
+  {
+    "name": "MipsCpuEmulator.cs",
+    "path": "MipsCpuEmulator.cs",
+    "sha": "f73e045a37b3eda17f817937ef2b27cb718a8c52",
+    "size": 12681,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/MipsCpuEmulator.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/MipsCpuEmulator.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/f73e045a37b3eda17f817937ef2b27cb718a8c52",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/MipsCpuEmulator.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/MipsCpuEmulator.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/f73e045a37b3eda17f817937ef2b27cb718a8c52",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/MipsCpuEmulator.cs"
+    }
+  },
+  {
+    "name": "MipsUverseEmulator.cs",
+    "path": "MipsUverseEmulator.cs",
+    "sha": "aec6997e8beecf95ccca82684baccfef1939b48a",
+    "size": 20555,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/MipsUverseEmulator.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/MipsUverseEmulator.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/aec6997e8beecf95ccca82684baccfef1939b48a",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/MipsUverseEmulator.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/MipsUverseEmulator.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/aec6997e8beecf95ccca82684baccfef1939b48a",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/MipsUverseEmulator.cs"
+    }
+  },
+  {
+    "name": "MocaTunersStub.cs",
+    "path": "MocaTunersStub.cs",
+    "sha": "9674f511ac7a8548649d035b54f289b835a2a099",
+    "size": 1120,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/MocaTunersStub.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/MocaTunersStub.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/9674f511ac7a8548649d035b54f289b835a2a099",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/MocaTunersStub.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/MocaTunersStub.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/9674f511ac7a8548649d035b54f289b835a2a099",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/MocaTunersStub.cs"
+    }
+  },
+  {
+    "name": "NetworkRedirector.cs",
+    "path": "NetworkRedirector.cs",
+    "sha": "9f7e268a374e3c1632093508fd3a1c3f2fa05b15",
+    "size": 16393,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/NetworkRedirector.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/NetworkRedirector.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/9f7e268a374e3c1632093508fd3a1c3f2fa05b15",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/NetworkRedirector.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/NetworkRedirector.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/9f7e268a374e3c1632093508fd3a1c3f2fa05b15",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/NetworkRedirector.cs"
+    }
+  },
+  {
+    "name": "NvRamDevice.cs",
+    "path": "NvRamDevice.cs",
+    "sha": "3b0b81cbf84044cbda57984f600569e462975c9a",
+    "size": 1375,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/NvRamDevice.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/NvRamDevice.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/3b0b81cbf84044cbda57984f600569e462975c9a",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/NvRamDevice.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/NvRamDevice.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/3b0b81cbf84044cbda57984f600569e462975c9a",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/NvRamDevice.cs"
+    }
+  },
+  {
+    "name": "PEImageLoader.cs",
+    "path": "PEImageLoader.cs",
+    "sha": "f85bf4485e43bbbcf4325a96cc20f35fc0cc8065",
+    "size": 10546,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/PEImageLoader.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/PEImageLoader.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/f85bf4485e43bbbcf4325a96cc20f35fc0cc8065",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/PEImageLoader.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/PEImageLoader.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/f85bf4485e43bbbcf4325a96cc20f35fc0cc8065",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/PEImageLoader.cs"
+    }
+  },
+  {
+    "name": "PartitionEntry.cs",
+    "path": "PartitionEntry.cs",
+    "sha": "16dde7ff41b672e0b8b445543c4f221d4a735ce5",
+    "size": 317,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/PartitionEntry.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/PartitionEntry.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/16dde7ff41b672e0b8b445543c4f221d4a735ce5",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/PartitionEntry.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/PartitionEntry.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/16dde7ff41b672e0b8b445543c4f221d4a735ce5",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/PartitionEntry.cs"
+    }
+  },
+  {
+    "name": "PlatformDetector.cs",
+    "path": "PlatformDetector.cs",
+    "sha": "95660ae69cc4845c2129b3b18edadf4bfaa34e35",
+    "size": 17065,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/PlatformDetector.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/PlatformDetector.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/95660ae69cc4845c2129b3b18edadf4bfaa34e35",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/PlatformDetector.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/PlatformDetector.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/95660ae69cc4845c2129b3b18edadf4bfaa34e35",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/PlatformDetector.cs"
+    }
+  },
+  {
+    "name": "PlatformManager.cs",
+    "path": "PlatformManager.cs",
+    "sha": "a4a1a5098b022ef575f70472df3c7768bb774417",
+    "size": 1169,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/PlatformManager.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/PlatformManager.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/a4a1a5098b022ef575f70472df3c7768bb774417",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/PlatformManager.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/PlatformManager.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/a4a1a5098b022ef575f70472df3c7768bb774417",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/PlatformManager.cs"
+    }
+  },
+  {
+    "name": "PowerPCBootloaderManager.cs",
+    "path": "PowerPCBootloaderManager.cs",
+    "sha": "91d9af33c45db75d30723b94dd543cf8958d579d",
+    "size": 8550,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/PowerPCBootloaderManager.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/PowerPCBootloaderManager.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/91d9af33c45db75d30723b94dd543cf8958d579d",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/PowerPCBootloaderManager.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/PowerPCBootloaderManager.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/91d9af33c45db75d30723b94dd543cf8958d579d",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/PowerPCBootloaderManager.cs"
+    }
+  },
+  {
+    "name": "PowerPCEmulator.cs",
+    "path": "PowerPCEmulator.cs",
+    "sha": "a1e18e47020490af8fb45c964ac43ac9f8296fcb",
+    "size": 10527,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/PowerPCEmulator.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/PowerPCEmulator.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/a1e18e47020490af8fb45c964ac43ac9f8296fcb",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/PowerPCEmulator.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/PowerPCEmulator.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/a1e18e47020490af8fb45c964ac43ac9f8296fcb",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/PowerPCEmulator.cs"
+    }
+  },
+  {
+    "name": "Processor-Emulator.sln",
+    "path": "Processor-Emulator.sln",
+    "sha": "21a0047ba10ef00a6b7e2005be1f2459e56d6b44",
+    "size": 1104,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/Processor-Emulator.sln?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/Processor-Emulator.sln",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/21a0047ba10ef00a6b7e2005be1f2459e56d6b44",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/Processor-Emulator.sln",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/Processor-Emulator.sln?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/21a0047ba10ef00a6b7e2005be1f2459e56d6b44",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/Processor-Emulator.sln"
+    }
+  },
+  {
+    "name": "ProcessorEmulator.csproj",
+    "path": "ProcessorEmulator.csproj",
+    "sha": "6ac404786fd060665a22f820cfa12e8cb55ccf32",
+    "size": 2323,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/ProcessorEmulator.csproj?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/ProcessorEmulator.csproj",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/6ac404786fd060665a22f820cfa12e8cb55ccf32",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/ProcessorEmulator.csproj",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/ProcessorEmulator.csproj?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/6ac404786fd060665a22f820cfa12e8cb55ccf32",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/ProcessorEmulator.csproj"
+    }
+  },
+  {
+    "name": "Program.cs",
+    "path": "Program.cs",
+    "sha": "e3ed5af77b5a5d0bd8055193519d8751d359a09f",
+    "size": 173,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/Program.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/Program.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/e3ed5af77b5a5d0bd8055193519d8751d359a09f",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/Program.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/Program.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/e3ed5af77b5a5d0bd8055193519d8751d359a09f",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/Program.cs"
+    }
+  },
+  {
+    "name": "Properties",
+    "path": "Properties",
+    "sha": "fdb98843cb63f9ac36f47216e1be02b9152a9957",
+    "size": 0,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/Properties?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/tree/main/Properties",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/trees/fdb98843cb63f9ac36f47216e1be02b9152a9957",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/Properties?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/trees/fdb98843cb63f9ac36f47216e1be02b9152a9957",
+      "html": "https://github.com/julerobb1/Processor-Emulator/tree/main/Properties"
+    }
+  },
+  {
+    "name": "QemuManager.cs",
+    "path": "QemuManager.cs",
+    "sha": "2e35e821ce98c328ee3cf633e1ac4a9fd2fd9635",
+    "size": 5999,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/QemuManager.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/QemuManager.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/2e35e821ce98c328ee3cf633e1ac4a9fd2fd9635",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/QemuManager.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/QemuManager.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/2e35e821ce98c328ee3cf633e1ac4a9fd2fd9635",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/QemuManager.cs"
+    }
+  },
+  {
+    "name": "RDKVEmulator.cs",
+    "path": "RDKVEmulator.cs",
+    "sha": "129eba00926a8987c68b62b64c58b62143eee72f",
+    "size": 8366,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/RDKVEmulator.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/RDKVEmulator.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/129eba00926a8987c68b62b64c58b62143eee72f",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/RDKVEmulator.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/RDKVEmulator.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/129eba00926a8987c68b62b64c58b62143eee72f",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/RDKVEmulator.cs"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "1508eaf56364ef004149e463514d0dff25dd6511",
+    "size": 9852,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/README.md?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/1508eaf56364ef004149e463514d0dff25dd6511",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/1508eaf56364ef004149e463514d0dff25dd6511",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/README.md"
+    }
+  },
+  {
+    "name": "RamDevice.cs",
+    "path": "RamDevice.cs",
+    "sha": "d276a264a1e66362e40ce21edca5d662cd2ef495",
+    "size": 1542,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/RamDevice.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/RamDevice.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/d276a264a1e66362e40ce21edca5d662cd2ef495",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/RamDevice.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/RamDevice.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/d276a264a1e66362e40ce21edca5d662cd2ef495",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/RamDevice.cs"
+    }
+  },
+  {
+    "name": "RdkVStack.cs",
+    "path": "RdkVStack.cs",
+    "sha": "93fcab9c0c932867ba9867637dc0febf65ae506f",
+    "size": 22911,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/RdkVStack.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/RdkVStack.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/93fcab9c0c932867ba9867637dc0febf65ae506f",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/RdkVStack.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/RdkVStack.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/93fcab9c0c932867ba9867637dc0febf65ae506f",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/RdkVStack.cs"
+    }
+  },
+  {
+    "name": "RealHypervisorDisplay.cs",
+    "path": "RealHypervisorDisplay.cs",
+    "sha": "fbb73f08c00c2795da6c2a6e8fb6f95a68c51f69",
+    "size": 11101,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/RealHypervisorDisplay.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/RealHypervisorDisplay.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/fbb73f08c00c2795da6c2a6e8fb6f95a68c51f69",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/RealHypervisorDisplay.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/RealHypervisorDisplay.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/fbb73f08c00c2795da6c2a6e8fb6f95a68c51f69",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/RealHypervisorDisplay.cs"
+    }
+  },
+  {
+    "name": "RealHypervisorManager.cs",
+    "path": "RealHypervisorManager.cs",
+    "sha": "9ab2d8e2bb4f4d7e499421e0b8bbd4c051bd6551",
+    "size": 6425,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/RealHypervisorManager.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/RealHypervisorManager.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/9ab2d8e2bb4f4d7e499421e0b8bbd4c051bd6551",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/RealHypervisorManager.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/RealHypervisorManager.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/9ab2d8e2bb4f4d7e499421e0b8bbd4c051bd6551",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/RealHypervisorManager.cs"
+    }
+  },
+  {
+    "name": "RealMipsHypervisor.cs",
+    "path": "RealMipsHypervisor.cs",
+    "sha": "2dc9930dd43981f3be291e46f4bc6b5c41cb1b83",
+    "size": 16732,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/RealMipsHypervisor.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/RealMipsHypervisor.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/2dc9930dd43981f3be291e46f4bc6b5c41cb1b83",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/RealMipsHypervisor.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/RealMipsHypervisor.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/2dc9930dd43981f3be291e46f4bc6b5c41cb1b83",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/RealMipsHypervisor.cs"
+    }
+  },
+  {
+    "name": "RealQemuEmulator.cs",
+    "path": "RealQemuEmulator.cs",
+    "sha": "7a64ced0c6b58c2fa6087b1ef999f0e9551369e9",
+    "size": 6738,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/RealQemuEmulator.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/RealQemuEmulator.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/7a64ced0c6b58c2fa6087b1ef999f0e9551369e9",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/RealQemuEmulator.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/RealQemuEmulator.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/7a64ced0c6b58c2fa6087b1ef999f0e9551369e9",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/RealQemuEmulator.cs"
+    }
+  },
+  {
+    "name": "Resources",
+    "path": "Resources",
+    "sha": "f9ec73297de6fd35376f5b656517ffeb7e9dc011",
+    "size": 0,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/Resources?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/tree/main/Resources",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/trees/f9ec73297de6fd35376f5b656517ffeb7e9dc011",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/Resources?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/trees/f9ec73297de6fd35376f5b656517ffeb7e9dc011",
+      "html": "https://github.com/julerobb1/Processor-Emulator/tree/main/Resources"
+    }
+  },
+  {
+    "name": "SatelliteStreamEmulator.cs",
+    "path": "SatelliteStreamEmulator.cs",
+    "sha": "94b94c74fc15e4bb63eee32df36c9bff8184aa04",
+    "size": 509,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/SatelliteStreamEmulator.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/SatelliteStreamEmulator.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/94b94c74fc15e4bb63eee32df36c9bff8184aa04",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/SatelliteStreamEmulator.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/SatelliteStreamEmulator.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/94b94c74fc15e4bb63eee32df36c9bff8184aa04",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/SatelliteStreamEmulator.cs"
+    }
+  },
+  {
+    "name": "SimpleFirmwareEmulator.cs",
+    "path": "SimpleFirmwareEmulator.cs",
+    "sha": "ba08eeff3cae4a2637f05b8e39b86c2a49b0b607",
+    "size": 3728,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/SimpleFirmwareEmulator.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/SimpleFirmwareEmulator.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/ba08eeff3cae4a2637f05b8e39b86c2a49b0b607",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/SimpleFirmwareEmulator.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/SimpleFirmwareEmulator.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/ba08eeff3cae4a2637f05b8e39b86c2a49b0b607",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/SimpleFirmwareEmulator.cs"
+    }
+  },
+  {
+    "name": "StandaloneBoltDemo.cs",
+    "path": "StandaloneBoltDemo.cs",
+    "sha": "26277d283c05e1dc452204fb3214274c44569a21",
+    "size": 13661,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/StandaloneBoltDemo.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/StandaloneBoltDemo.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/26277d283c05e1dc452204fb3214274c44569a21",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/StandaloneBoltDemo.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/StandaloneBoltDemo.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/26277d283c05e1dc452204fb3214274c44569a21",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/StandaloneBoltDemo.cs"
+    }
+  },
+  {
+    "name": "StandaloneBoltDemo.csproj",
+    "path": "StandaloneBoltDemo.csproj",
+    "sha": "74abf5c9766499f4fd79d4a9398f619d39c2e45e",
+    "size": 239,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/StandaloneBoltDemo.csproj?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/StandaloneBoltDemo.csproj",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/74abf5c9766499f4fd79d4a9398f619d39c2e45e",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/StandaloneBoltDemo.csproj",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/StandaloneBoltDemo.csproj?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/74abf5c9766499f4fd79d4a9398f619d39c2e45e",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/StandaloneBoltDemo.csproj"
+    }
+  },
+  {
+    "name": "SwmLnbEmulator.cs",
+    "path": "SwmLnbEmulator.cs",
+    "sha": "2795951c0488388176876adb44eea38f8e5e9f4d",
+    "size": 1100,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/SwmLnbEmulator.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/SwmLnbEmulator.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/2795951c0488388176876adb44eea38f8e5e9f4d",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/SwmLnbEmulator.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/SwmLnbEmulator.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/2795951c0488388176876adb44eea38f8e5e9f4d",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/SwmLnbEmulator.cs"
+    }
+  },
+  {
+    "name": "TestHypervisor.cs",
+    "path": "TestHypervisor.cs",
+    "sha": "0c054d5b78ab3b85c5b64e813b93a43a57eb5292",
+    "size": 2513,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/TestHypervisor.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/TestHypervisor.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/0c054d5b78ab3b85c5b64e813b93a43a57eb5292",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/TestHypervisor.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/TestHypervisor.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/0c054d5b78ab3b85c5b64e813b93a43a57eb5292",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/TestHypervisor.cs"
+    }
+  },
+  {
+    "name": "Tools.cs",
+    "path": "Tools.cs",
+    "sha": "711bf49054267842af9c9d6a35ed3f8c1bc9216e",
+    "size": 13835,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/Tools.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/Tools.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/711bf49054267842af9c9d6a35ed3f8c1bc9216e",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/Tools.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/Tools.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/711bf49054267842af9c9d6a35ed3f8c1bc9216e",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/Tools.cs"
+    }
+  },
+  {
+    "name": "Tools",
+    "path": "Tools",
+    "sha": "32571046431a32f6972802999b3c65bfa36106af",
+    "size": 0,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/Tools?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/tree/main/Tools",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/trees/32571046431a32f6972802999b3c65bfa36106af",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/Tools?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/trees/32571046431a32f6972802999b3c65bfa36106af",
+      "html": "https://github.com/julerobb1/Processor-Emulator/tree/main/Tools"
+    }
+  },
+  {
+    "name": "UPDATE PLEASE READ",
+    "path": "UPDATE PLEASE READ",
+    "sha": "7f5325b64b143752acc21a01cbadc80730582199",
+    "size": 91,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/UPDATE%20PLEASE%20READ?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/UPDATE%20PLEASE%20READ",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/7f5325b64b143752acc21a01cbadc80730582199",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/UPDATE%20PLEASE%20READ",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/UPDATE%20PLEASE%20READ?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/7f5325b64b143752acc21a01cbadc80730582199",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/UPDATE%20PLEASE%20READ"
+    }
+  },
+  {
+    "name": "UniversalUart.cs",
+    "path": "UniversalUart.cs",
+    "sha": "d466e6d63075e0798b740ae1c151c7b97bb96aa5",
+    "size": 2096,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/UniversalUart.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/UniversalUart.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/d466e6d63075e0798b740ae1c151c7b97bb96aa5",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/UniversalUart.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/UniversalUart.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/d466e6d63075e0798b740ae1c151c7b97bb96aa5",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/UniversalUart.cs"
+    }
+  },
+  {
+    "name": "UverseDvrEmulator.cs",
+    "path": "UverseDvrEmulator.cs",
+    "sha": "8113547e9cfdf1cccb165e029aa2d024c67c9228",
+    "size": 37286,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/UverseDvrEmulator.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/UverseDvrEmulator.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/8113547e9cfdf1cccb165e029aa2d024c67c9228",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/UverseDvrEmulator.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/UverseDvrEmulator.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/8113547e9cfdf1cccb165e029aa2d024c67c9228",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/UverseDvrEmulator.cs"
+    }
+  },
+  {
+    "name": "UverseEmulator.cs",
+    "path": "UverseEmulator.cs",
+    "sha": "d468ec63a431bdc00feab61d1a7f3979238a4d53",
+    "size": 14445,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/UverseEmulator.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/UverseEmulator.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/d468ec63a431bdc00feab61d1a7f3979238a4d53",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/UverseEmulator.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/UverseEmulator.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/d468ec63a431bdc00feab61d1a7f3979238a4d53",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/UverseEmulator.cs"
+    }
+  },
+  {
+    "name": "UverseEmulatorOriginal.cs",
+    "path": "UverseEmulatorOriginal.cs",
+    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "size": 0,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/UverseEmulatorOriginal.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/UverseEmulatorOriginal.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/UverseEmulatorOriginal.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/UverseEmulatorOriginal.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/UverseEmulatorOriginal.cs"
+    }
+  },
+  {
+    "name": "UverseEmulatorTest.cs",
+    "path": "UverseEmulatorTest.cs",
+    "sha": "c2b7adfbae5c500a18efe32e8dd91e74d30889b5",
+    "size": 2215,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/UverseEmulatorTest.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/UverseEmulatorTest.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/c2b7adfbae5c500a18efe32e8dd91e74d30889b5",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/UverseEmulatorTest.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/UverseEmulatorTest.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/c2b7adfbae5c500a18efe32e8dd91e74d30889b5",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/UverseEmulatorTest.cs"
+    }
+  },
+  {
+    "name": "UverseFileParser.cs",
+    "path": "UverseFileParser.cs",
+    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "size": 0,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/UverseFileParser.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/UverseFileParser.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/UverseFileParser.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/UverseFileParser.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/UverseFileParser.cs"
+    }
+  },
+  {
+    "name": "UverseFileSystem.cs",
+    "path": "UverseFileSystem.cs",
+    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "size": 0,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/UverseFileSystem.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/UverseFileSystem.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/UverseFileSystem.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/UverseFileSystem.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/UverseFileSystem.cs"
+    }
+  },
+  {
+    "name": "UverseFirmwareExtractor.cs",
+    "path": "UverseFirmwareExtractor.cs",
+    "sha": "da9772b14c0ccddef0812db5fb0cc35308feeb3f",
+    "size": 43007,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/UverseFirmwareExtractor.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/UverseFirmwareExtractor.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/da9772b14c0ccddef0812db5fb0cc35308feeb3f",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/UverseFirmwareExtractor.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/UverseFirmwareExtractor.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/da9772b14c0ccddef0812db5fb0cc35308feeb3f",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/UverseFirmwareExtractor.cs"
+    }
+  },
+  {
+    "name": "VirtualMachineHypervisor.cs",
+    "path": "VirtualMachineHypervisor.cs",
+    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "size": 0,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/VirtualMachineHypervisor.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/VirtualMachineHypervisor.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/VirtualMachineHypervisor.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/VirtualMachineHypervisor.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/VirtualMachineHypervisor.cs"
+    }
+  },
+  {
+    "name": "VirtualMemoryManager.cs",
+    "path": "VirtualMemoryManager.cs",
+    "sha": "a927c9a2b31f556a774fb7cf67b20a4fbfdf8868",
+    "size": 7657,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/VirtualMemoryManager.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/VirtualMemoryManager.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/a927c9a2b31f556a774fb7cf67b20a4fbfdf8868",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/VirtualMemoryManager.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/VirtualMemoryManager.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/a927c9a2b31f556a774fb7cf67b20a4fbfdf8868",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/VirtualMemoryManager.cs"
+    }
+  },
+  {
+    "name": "VxWorksFilesystem.cs",
+    "path": "VxWorksFilesystem.cs",
+    "sha": "c4f4c3aeda8e85c0c086651793006a875135aca1",
+    "size": 9692,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/VxWorksFilesystem.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/VxWorksFilesystem.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/c4f4c3aeda8e85c0c086651793006a875135aca1",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/VxWorksFilesystem.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/VxWorksFilesystem.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/c4f4c3aeda8e85c0c086651793006a875135aca1",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/VxWorksFilesystem.cs"
+    }
+  },
+  {
+    "name": "Win7Chrome.cs",
+    "path": "Win7Chrome.cs",
+    "sha": "a2cd512462cea24bfb2fc1dc5693a3c72afcdf28",
+    "size": 4320,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/Win7Chrome.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/Win7Chrome.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/a2cd512462cea24bfb2fc1dc5693a3c72afcdf28",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/Win7Chrome.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/Win7Chrome.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/a2cd512462cea24bfb2fc1dc5693a3c72afcdf28",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/Win7Chrome.cs"
+    }
+  },
+  {
+    "name": "Win7Styles.xaml",
+    "path": "Win7Styles.xaml",
+    "sha": "a82b0443a0c7071dbce5e230ab6896ffb195f67c",
+    "size": 10639,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/Win7Styles.xaml?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/Win7Styles.xaml",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/a82b0443a0c7071dbce5e230ab6896ffb195f67c",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/Win7Styles.xaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/Win7Styles.xaml?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/a82b0443a0c7071dbce5e230ab6896ffb195f67c",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/Win7Styles.xaml"
+    }
+  },
+  {
+    "name": "WinCEEmulator.cs",
+    "path": "WinCEEmulator.cs",
+    "sha": "f9b4c37ae3587a4df7890be55f9d3dfe8f2412a3",
+    "size": 2662,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/WinCEEmulator.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/WinCEEmulator.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/f9b4c37ae3587a4df7890be55f9d3dfe8f2412a3",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/WinCEEmulator.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/WinCEEmulator.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/f9b4c37ae3587a4df7890be55f9d3dfe8f2412a3",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/WinCEEmulator.cs"
+    }
+  },
+  {
+    "name": "Windows7ThemeManager.cs",
+    "path": "Windows7ThemeManager.cs",
+    "sha": "4807cc381eef41941f96cd882c4d2d87fb518206",
+    "size": 4295,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/Windows7ThemeManager.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/Windows7ThemeManager.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/4807cc381eef41941f96cd882c4d2d87fb518206",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/Windows7ThemeManager.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/Windows7ThemeManager.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/4807cc381eef41941f96cd882c4d2d87fb518206",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/Windows7ThemeManager.cs"
+    }
+  },
+  {
+    "name": "WindowsCEApiEmulator.cs",
+    "path": "WindowsCEApiEmulator.cs",
+    "sha": "6955a252a6f92b82c71fdd5e347343103fea503b",
+    "size": 26460,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/WindowsCEApiEmulator.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/WindowsCEApiEmulator.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/6955a252a6f92b82c71fdd5e347343103fea503b",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/WindowsCEApiEmulator.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/WindowsCEApiEmulator.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/6955a252a6f92b82c71fdd5e347343103fea503b",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/WindowsCEApiEmulator.cs"
+    }
+  },
+  {
+    "name": "WindowsCEExecutor.cs",
+    "path": "WindowsCEExecutor.cs",
+    "sha": "60cd5e173a166eb31381a1d4173c3519fa091be8",
+    "size": 18803,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/WindowsCEExecutor.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/WindowsCEExecutor.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/60cd5e173a166eb31381a1d4173c3519fa091be8",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/WindowsCEExecutor.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/WindowsCEExecutor.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/60cd5e173a166eb31381a1d4173c3519fa091be8",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/WindowsCEExecutor.cs"
+    }
+  },
+  {
+    "name": "X86CpuEmulator.cs",
+    "path": "X86CpuEmulator.cs",
+    "sha": "9cacb7d43444a12b73517de590970d2cf0697ffb",
+    "size": 3216,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/X86CpuEmulator.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/X86CpuEmulator.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/9cacb7d43444a12b73517de590970d2cf0697ffb",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/X86CpuEmulator.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/X86CpuEmulator.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/9cacb7d43444a12b73517de590970d2cf0697ffb",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/X86CpuEmulator.cs"
+    }
+  },
+  {
+    "name": "XG1v4Emulator.cs",
+    "path": "XG1v4Emulator.cs",
+    "sha": "7552562890166f52e1ca5d7efcd460ebaf1c5f49",
+    "size": 28074,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/XG1v4Emulator.cs?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/XG1v4Emulator.cs",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/7552562890166f52e1ca5d7efcd460ebaf1c5f49",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/XG1v4Emulator.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/XG1v4Emulator.cs?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/7552562890166f52e1ca5d7efcd460ebaf1c5f49",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/XG1v4Emulator.cs"
+    }
+  },
+  {
+    "name": "dotnet-install.ps1",
+    "path": "dotnet-install.ps1",
+    "sha": "8537c601ef2f0967137023815b2613d6538b2da5",
+    "size": 69734,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/dotnet-install.ps1?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/dotnet-install.ps1",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/8537c601ef2f0967137023815b2613d6538b2da5",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/dotnet-install.ps1",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/dotnet-install.ps1?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/8537c601ef2f0967137023815b2613d6538b2da5",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/dotnet-install.ps1"
+    }
+  },
+  {
+    "name": "mips_files.json",
+    "path": "mips_files.json",
+    "sha": "9da438e9ef8cd74aa3394d454a7315d83ea31ea7",
+    "size": 414,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/mips_files.json?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/mips_files.json",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/9da438e9ef8cd74aa3394d454a7315d83ea31ea7",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/mips_files.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/mips_files.json?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/9da438e9ef8cd74aa3394d454a7315d83ea31ea7",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/mips_files.json"
+    }
+  },
+  {
+    "name": "nk.bin",
+    "path": "nk.bin",
+    "sha": "da3fc8a25a1defbe4cbabeb2230115adee529bc2",
+    "size": 1698,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/nk.bin?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/nk.bin",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/da3fc8a25a1defbe4cbabeb2230115adee529bc2",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/nk.bin",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/nk.bin?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/da3fc8a25a1defbe4cbabeb2230115adee529bc2",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/nk.bin"
+    }
+  },
+  {
+    "name": "test.elf",
+    "path": "test.elf",
+    "sha": "7747aa3c0e1fb2ac9c824e7196946739821bd827",
+    "size": 4,
+    "url": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/test.elf?ref=main",
+    "html_url": "https://github.com/julerobb1/Processor-Emulator/blob/main/test.elf",
+    "git_url": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/7747aa3c0e1fb2ac9c824e7196946739821bd827",
+    "download_url": "https://raw.githubusercontent.com/julerobb1/Processor-Emulator/main/test.elf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/julerobb1/Processor-Emulator/contents/test.elf?ref=main",
+      "git": "https://api.github.com/repos/julerobb1/Processor-Emulator/git/blobs/7747aa3c0e1fb2ac9c824e7196946739821bd827",
+      "html": "https://github.com/julerobb1/Processor-Emulator/blob/main/test.elf"
+    }
+  }
+]
